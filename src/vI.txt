@@ -1,0 +1,11 @@
+{
+	"primaryColor": "#d2ff52"
+	"accentColor": "#c1eb4b"
+	"backgroundColor":"#ffffff"
+	cardColor:["#d2ff52","#f5f5f5"]
+	textColor1: "000000" // same as icon color
+	textColor2: "#ffffff"
+	textColor3: "#efefef""
+	dividerColor:
+	typo: "Rubik"
+}
